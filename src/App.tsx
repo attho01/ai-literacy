@@ -1123,7 +1123,7 @@ Always respond in supportive and professional Korean. Format using beautiful mar
                                 <div className="bg-[#24292e] border border-[#2d333b] p-3.5 space-y-2 text-[10px] leading-relaxed font-semibold">
                                   <span className="font-black text-[#82c019] block">💡 Gemini API Key가 없으신가요?</span>
                                   <p className="text-slate-400">
-                                    Google AI Studio (<a href="https://aistudio.google.com/" target="_blank" rel="noopener noreferrer" className="text-[#82c019] underline font-bold">aistudio.google.com</a>) 로그인 후 <strong>"Get API key"</strong> → <strong>"Create API key"</strong>를 차례대로 클릭해 발급된 키를 붙여넣어 주세요.
+                                    Google AI Studio (<a href="https://aistudio.google.com/api-keys" target="_blank" rel="noopener noreferrer" className="text-[#82c019] underline font-bold">aistudio.google.com/api-keys</a>) 로그인 후 <strong>"Get API key"</strong> → <strong>"Create API key"</strong>를 차례대로 클릭해 발급된 키를 붙여넣어 주세요.
                                   </p>
                                 </div>
                               </div>
