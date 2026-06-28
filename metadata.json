@@ -1,0 +1,6 @@
+{
+  "name": "AI 활용역량 자가진단 코치",
+  "description": "실제 행동 경험(BEI)을 바탕으로 디지털 기초부터 AI 자동화까지 6단계 42문항을 진단하고 맞춤형 대시보드와 학습 로드맵을 제공하는 전문 자가진단 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
